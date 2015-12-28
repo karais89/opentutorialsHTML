@@ -188,3 +188,8 @@ colspan = 열, 수평 병합
 
 등장시기 = html 2
 
+#### 텍스트 입력
+
+name, value 속성
+
+textarea 등..
