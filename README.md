@@ -110,3 +110,15 @@ DOCTYPE = Document type declaration
 다중 편집 환경 제공, 검색 등 중요 환경 제공. 개발도구를 사용하는것은 중요하다.
 
 emmet이 엄청 좋다.
+
+## HTML의 변천사와 통계
+
+HTML은 여러가지 태그가 있다.
+
+태그들을 살펴 볼 예정. 살펴 볼 방향성.. 웹이 발전하는 과정에서 태그들이 늘어남.
+
+HTML 연대기 = http://www.martinrinehart.com/frontend-engineering/engineers/html/html-tag-history.html
+
+HTML 통계 = https://developers.google.com/webmasters/state-of-the-web/2005/
+
+태그의 사용 빈도 수에 따라 설명할 예정. 어쩌다 쓰는건 검색해서 사용해라.
