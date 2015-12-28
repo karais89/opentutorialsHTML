@@ -130,3 +130,11 @@ HTML 통계 = https://developers.google.com/webmasters/state-of-the-web/2005/
 ### 단락 - p
 
 paragraph의 줄임말로 단락을 표현할 때 사용합니다.
+
+### 줄바꿈 - br
+
+새로운 행에서부터 입력이 시작되도록 합니다. A forced line-break의 줄임말
+
+등장시기 : html 2
+
+br 태그는 줄바꿈일뿐이고.. 단락을 표현하고 싶으면 p 태그를 사용하자.
