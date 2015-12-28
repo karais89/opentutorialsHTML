@@ -62,3 +62,13 @@ li 태그 = 리스트 (list)
 ul 태그로 묶을수 있음(그룹핑) 순서가 없는 리스트 unordered list
 
 ol 태그 = 순서가 있는 리스트 ordered list
+
+## 문서의 구조
+
+가장 큰 틀의 체계들이 있음.
+
+본문 이외의 정보들도 있음.(title, meta charset 등)
+
+HTML은 부가적인 정보와 본문을 각각 다른 태그에 담도록 약속이 되있음. (head태그)
+
+본문 태그는 body태그에 담자. 그래서 HTML은 HEAD태그와 BODY태그로 구성되있음 그리고 HTML태그는 이 두개의 태그를 감싸줌.
