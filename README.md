@@ -94,3 +94,19 @@ DOCTYPE = Document type declaration
 완결된 웹 사이트를 만들기 
 
 총 5개의 파일.
+
+## 개발도구
+
+개발도구는 선택사항입니다.
+
+목록
+* atom(추천 확장기능 emmet)
+* sublime text(추천 확장기능 emmet)
+* bracket
+* visual studio code(emmet 내장)
+
+이 수업은 atom 에디터 기반으로 작성됨. 개발도구 안 배워도 됨. ~~하지만 손발이 고생하겠지~~
+
+다중 편집 환경 제공, 검색 등 중요 환경 제공. 개발도구를 사용하는것은 중요하다.
+
+emmet이 엄청 좋다.
