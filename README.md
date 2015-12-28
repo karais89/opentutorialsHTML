@@ -122,3 +122,11 @@ HTML 연대기 = http://www.martinrinehart.com/frontend-engineering/engineers/ht
 HTML 통계 = https://developers.google.com/webmasters/state-of-the-web/2005/
 
 태그의 사용 빈도 수에 따라 설명할 예정. 어쩌다 쓰는건 검색해서 사용해라.
+
+## 주요 태그
+
+본 토픽의 하위에서는 주요한 태그들을 살펴봅니다. 오래된 태그나 사용빈도가 높은 태그의 순으로 학습을 합니다. 따라서 모든 수업을 완주할 필요는 없고 하는만큼하면 됩니다. 모르는 태그는 검색을 통해서 알아내시면 됩니다. 
+
+### 단락 - p
+
+paragraph의 줄임말로 단락을 표현할 때 사용합니다.
