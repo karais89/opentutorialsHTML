@@ -407,3 +407,6 @@ input types
 * time
 * url
 * week
+
+##### HTML5의 입력양식의 속성들
+
