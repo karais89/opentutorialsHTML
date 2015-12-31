@@ -410,3 +410,10 @@ input types
 
 ##### HTML5의 입력양식의 속성들
 
+##### HTML5 입력 값 체크
+
+유효성 검사.
+
+require 속성 = 필수
+
+pattern = 정규표현식을 사용
