@@ -388,3 +388,22 @@ Network 는 웹 브라우저와 웹서버가 주고 받는 여러가지 데이�
  새롭게 도입된 기술은 오래된 웹브라우저에서 동작하지 않습니다. 결국 얼마나 많은 웹브라우저가 이 기술을 사용할 수 있는가에 따라서 신기술의 도입 여부를 결정해야 합니다. Can I use는 이런 결정을 할 때 도움을 주는 서비스입니다.
  
  Can I use 웹 사이트 : http://caniuse.com/
+ 
+ #### HTML5의 입력방식
+ 
+ html5때부터 form의 대폭개선이 있었음 Input 타입이 다양해 졌음.
+
+input types 
+* color  
+* date 
+* datetime 
+* datetime-local  
+* email 
+* month 
+* number
+* range
+* search
+* tel
+* time
+* url
+* week
